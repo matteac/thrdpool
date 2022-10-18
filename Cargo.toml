@@ -1,7 +1,11 @@
 [package]
-name = "threadpool"
+name = "thrdpool"
+description = "Creates a threadpool to run multiple jobs in parallel"
 version = "0.1.0"
 edition = "2021"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/matteac/thrdpool"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
